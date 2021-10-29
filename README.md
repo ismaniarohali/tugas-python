@@ -1,7 +1,5 @@
 # tugas-python
 ## Belajar python
 
-### menghitung luas dan keliling lingkaran
-kode menghitung luas dan keliling lingkaran adalah <p>
-ini adalah tampilannya 
-![gambar1](screenshoot/program python/ss kode program/flowchart)
+### ini adalah program menghitung luas dan keliling lingkaran
+![program python](https://user-images.githubusercontent.com/89309155/139415928-a7e31ab8-6937-4a0f-9fe5-b9b7ff86f7a4.jpg)
